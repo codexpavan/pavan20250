@@ -1,16 +1,9 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║
-██████╔╝███████║██║   ██║███████║██╔██╗ ██║
-██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
-██║     ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Hi, I'm Pavan 👋
 
-### Full Stack Developer · React & Next.js Specialist · Problem Solver
+### Full Stack Developer · Building scalable apps from UI to cloud
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pavan20250&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/pavan20250)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--rathod--0203k-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pavan-rathod-0203k)
@@ -23,12 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, performant web applications with clean, maintainable code. I thrive at the intersection of design and engineering — turning ideas into polished digital experiences.
+Full Stack Developer with **1+ year of experience** building scalable, enterprise-grade applications — from intuitive UIs to efficient backend systems and production deployments. I specialize in modern JavaScript frameworks with strong exposure to cloud technologies, SaaS platforms, and GenAI-driven solutions.
 
-- 🔭 &nbsp; Currently building with **React**, **Next.js**, and **Node.js**
-- 🌱 &nbsp; Exploring **cloud architecture** with AWS and containerization via Docker
+BTech graduate from **IIITDM Chennai**, I've contributed to dashboards, authentication systems, data-driven features, and cloud-hosted apps with a focus on performance, security, and clean code. Experienced with **AWS EC2**, **Docker**, and modern DevOps workflows.
+
 - 💬 &nbsp; Ask me about **React**, **Next.js**, or anything full-stack
-- ⚡ &nbsp; Fun fact: I solve problems on LeetCode to keep my algorithmic thinking sharp
 - 📫 &nbsp; Reach me at **pavannaik0203@gmail.com**
 
 ---
@@ -37,8 +29,6 @@ I'm a **Full Stack Developer** passionate about building scalable, performant we
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavan20250&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan20250&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
